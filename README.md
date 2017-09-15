@@ -1,1 +1,1 @@
-# project1
+# project pertama saya juga sebagai latihan laravel
